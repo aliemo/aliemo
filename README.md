@@ -1,6 +1,6 @@
 ### Hi, I'm currently work from Earth :earth_asia: 
 
-> Life is too short to close VIM :)
+> **Life is too short to close VIM :)**
 
 <!--
 **alimpk/alimpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
