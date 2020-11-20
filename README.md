@@ -1,4 +1,6 @@
-### Hi, I'm currently work from Earth :earth_asia: 
+### I'm currently work on Intelligent Computing Systems
+* Reconfigurable Systems CAD and Architecture for Deep Learning Accelerators
+* RISC-V based many cores and toolchains for High Performance Computing
 
 > **Life is too short to close VIM :)**
 
