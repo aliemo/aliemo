@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/alimpk) [![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimpk" alt="alimpk" /> </p>
  -->
-**Life is too short to close VIM 🤔**
 
 ## :computer: Objectives
-* Computer Architecture
+* Reconfigurable Systems
+* Computer Architectures
+* Deep Neural Networks
 * Parallel Processing
-* Machine Learning
-* Bio-Informatics
+* Bioinformatics
 <details>
 <summary>:octocat: About Me!</summary>
 
@@ -20,9 +20,9 @@
 </details>
 
 ## Current Works
-I'm Working on **deep learning accelerator design on FPGAs and Reconfigurable Systems**. I also interested on **RISC-V**, *Linux of Hardware*.
+I'm Working on **Intelligent Computing System Design and Reconfigurable Neural Computing Systems**. I also interested on **RISC-V** Architecture and Compiler Design.
 
 ## Programming
 <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/c.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/cpp.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/python2.png' height='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/git.svg' width='30'/> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/qt2016.png' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/cuda.png' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/opencl.svg' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/openmp.png' height=28> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/systemverilog.png' height=28> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/vivado.png' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/quartusprime.png' height=30>
  
-
+**Life is too short to close VIM 🤔**
