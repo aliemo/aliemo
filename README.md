@@ -4,12 +4,12 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimpk" alt="alimpk" /> </p>
  -->
 
-## :computer: Objectives
+## :computer: Interests
 * Reconfigurable Systems
-* Computer Architectures
-* Deep Neural Networks
+* Near Memory Processing
+* Machine/Deep Learining 
 * Parallel Processing
-* Bioinformatics
+* Bioinformatics 
 <details>
 <summary>:octocat: About Me!</summary>
 
