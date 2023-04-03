@@ -6,10 +6,11 @@
 
 ## :computer: Interests
 * Reconfigurable Systems
-* Near Memory Processing
-* Machine/Deep Learining 
-* Parallel Processing
-* Bioinformatics 
+* Memory Centeric Processing
+* AI Computing Systems
+* Bioinformatic Computing Systems
+* Parallel Algorithms and Computing
+* RISC-V Architecture and Ecosystem
 <details>
 <summary>:octocat: About Me!</summary>
 
