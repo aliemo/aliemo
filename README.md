@@ -1,16 +1,23 @@
 ## I'm Worknig on Intelligent Computing Systems <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+> **Inquisitive in research programs in top universities, Institutes and Industries in fields of:**
+
+> * *AI for Computing Systems and Computing Systems for AI*
+> * *Novel Computer Processing Paradigms*
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/alimpk) [![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimpk" alt="alimpk" /> </p>
  -->
 
-## :computer: Interests
+## :computer: Specific issue of interests are:
 * Reconfigurable Systems
 * Memory Centeric Processing
 * AI Computing Systems
 * Bioinformatic Computing Systems
 * Parallel Algorithms and Computing
 * RISC-V Architecture and Ecosystem
+
 <details>
 <summary>:octocat: About Me!</summary>
 
