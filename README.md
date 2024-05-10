@@ -6,7 +6,7 @@
 > * *Novel Computer Processing Paradigms*
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/alimpk) [![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/aliemo) [![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimpk" alt="alimpk" /> </p>
  -->
 
