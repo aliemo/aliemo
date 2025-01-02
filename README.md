@@ -1,24 +1,11 @@
+# [@aliemo](https://github.com/aliemo/aliemo)
 
-
-## Ali Mohhammadpour | Intelligent Reconfigurable Computing Systems Engineer
-
-> **Inquisitive in Research Programs in Fields of:**
-
-> * *AI for Computing Systems and Computing Systems for AI*
-> * *Novel Computer Processing Paradigms*
-> * *AI powered robotic systems*
+<p align="center">
+<img src='./cvhead.png' height=400>
+    
+</p>
 
 [![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/-aliemo-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/aliemo)
-[![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
-
-## :computer: Specific issue of interests are:
-* Reconfigurable Computing Systems
-* Parallel Algorithms and Computing
-* AI and Robotics Computing Systems
-* RISC-V Architecture and Ecosystem
-* Secure Memory Centeric Computing
-* Bioinformatic Computing Systems
-
 
 <details>
 <summary>:octocat: About Me!</summary>
