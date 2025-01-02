@@ -1,7 +1,7 @@
 # [@aliemo](https://github.com/aliemo/aliemo)
 
 <p align="center">
-<img src='./cvhead.png' height=400>
+<img src='./cvhead.png'>
     
 </p>
 
