@@ -1,6 +1,4 @@
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=1000&pause=1000&color=757575&width=435&lines=Life+is+too+short+to+close+VIM!;Therefore%2C+Live+in+it." alt="Typing SVG" /></a>
- </p>
 
 ## Ali Mohhammadpour | Intelligent Reconfigurable Computing Systems Engineer
 
@@ -66,7 +64,18 @@ I'm Working on **Intelligent Computing System Design and Reconfigurable Neural C
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
 
+<p align="center">
+<img src='https://github.com/alimpk/raw/blob/main/logo/tech/qt2016.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/NVIDIA_logo.svg' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/opencl.svg' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/openmp.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/systemverilog.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/vivado.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/quartusprime.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/openvino.png' height=20>
+<img src='https://github.com/alimpk/raw/blob/main/logo/tech/onnx_logo_main.png' height=20> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/tensorrt.png' height=20>
+</p>
+<p align="center">
+    <img src='https://github.com/alimpk/raw/blob/main/logo/tech/FR-DVB-logo.jpg' height=24>
+    <img src='https://github.com/alimpk/raw/blob/main/logo/tech/USB3VisionTM.png' height=24>
+    <img src='https://github.com/alimpk/raw/blob/main/logo/tech/GigEVisionTM.png' height=24>
+    <img src='https://github.com/alimpk/raw/blob/main/logo/company/Basler_AG_logo.svg' height=24>
+    <img src='https://github.com/alimpk/raw/blob/main/logo/company/contrastechlogo.png' height=24>
+    <img src='https://github.com/alimpk/raw/blob/main/logo/tech/ZDS-logo.png' height=24>
+</p>
 
-<img src='https://github.com/alimpk/raw/blob/main/logo/tech/qt2016.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/cuda.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/opencl.svg' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/openmp.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/systemverilog.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/vivado.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/quartusprime.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/openvino.png' height=24> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/onnx_logo_main.png' height=24>
- 
-**Life is too short to close VIM 🤔**
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=1000&pause=1000&color=757575&width=435&lines=Life+is+too+short+to+close+VIM!;Therefore%2C+Live+in+it." alt="Typing SVG" /></a>
+ </p>
