@@ -1,22 +1,27 @@
-## I'm Worknig on Intelligent Computing Systems <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> **Inquisitive in research programs in top universities, Institutes and Industries in fields of:**
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=28&duration=1000&pause=1000&color=757575&width=435&lines=Life+is+too+short+to+close+VIM!;Therefore%2C+Live+in+it." alt="Typing SVG" /></a>
+ </p>
+
+## Ali Mohhammadpour | Intelligent Reconfigurable Computing Systems Engineer
+
+> **Inquisitive in Research Programs in Fields of:**
 
 > * *AI for Computing Systems and Computing Systems for AI*
 > * *Novel Computer Processing Paradigms*
+> * *AI powered robotic systems*
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-aliemo-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/aliemo) [![Gmail Badge](https://img.shields.io/badge/-aliemohammadpour@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimpk" alt="alimpk" /> </p>
- -->
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-aliemo-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliemo) 
+[![Gmail Badge](https://img.shields.io/badge/mail-aliemohammadpour-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliemohammadpour@gmail.com)](mailto:aliemohammadpour@gmail.com)
 
 ## :computer: Specific issue of interests are:
-* Reconfigurable Systems
-* Memory Centeric Processing
-* AI Computing Systems
-* Bioinformatic Computing Systems
+* Reconfigurable Computing Systems
 * Parallel Algorithms and Computing
+* AI and Robotics Computing Systems
 * RISC-V Architecture and Ecosystem
+* Secure Memory Centeric Computing
+* Bioinformatic Computing Systems
+
 
 <details>
 <summary>:octocat: About Me!</summary>
