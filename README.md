@@ -1,11 +1,14 @@
-# [aliemo](https://github.com/aliemo/aliemo)
+<p align="center">
+    <a href='https://linkedin.com/in/aliemo'>
+        <img src='https://custom-icon-badges.demolab.com/badge/-aliemo-0A66C2?logo=linkedin-white&logoColor=fff' height=28>
+    </a>
+</p>
 
 <p align="center">
 <img src='./cvhead.png'>
     
 </p>
 
-[![Linkedin Badge](https://custom-icon-badges.demolab.com/badge/-aliemo-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/aliemo)
 
 <details>
 <summary>:octocat: About Me!</summary>
